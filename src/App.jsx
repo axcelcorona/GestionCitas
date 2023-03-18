@@ -3,7 +3,7 @@ import { Typography } from "@material-ui/core";
 function App() {
   return (
     <div>
-      <Typography>Hola Como Estas</Typography>
+      <Typography>Guapa yo :3</Typography>
     </div>
   );
 }
